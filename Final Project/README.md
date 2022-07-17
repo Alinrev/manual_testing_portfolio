@@ -63,7 +63,31 @@ The testing process will be executed based on the above requirements for the PIM
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
-* The test cases with steps can be viewed here: 
+* The test cases with steps can be viewed here: [PO-35.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128549/PO-35.pdf)
+[PO-36.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128550/PO-36.pdf)
+[PO-37.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128551/PO-37.pdf)
+[PO-2.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128552/PO-2.pdf)
+[PO-4.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128553/PO-4.pdf)
+[PO-5.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128554/PO-5.pdf)
+[PO-6.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128555/PO-6.pdf)
+[PO-11.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128556/PO-11.pdf)
+[PO-12.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128557/PO-12.pdf)
+[PO-13.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128558/PO-13.pdf)
+[PO-14.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128559/PO-14.pdf)
+[PO-15.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128560/PO-15.pdf)
+[PO-21.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128561/PO-21.pdf)
+[PO-22.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128562/PO-22.pdf)
+[PO-23.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128563/PO-23.pdf)
+[PO-24.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128564/PO-24.pdf)
+[PO-25.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128565/PO-25.pdf)
+[PO-28.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128566/PO-28.pdf)
+[PO-29.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128567/PO-29.pdf)
+[PO-30.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128568/PO-30.pdf)
+[PO-31.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128569/PO-31.pdf)
+[PO-32.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128570/PO-32.pdf)
+[PO-33.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128571/PO-33.pdf)
+[PO-34.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128572/PO-34.pdf)
+
 * For API, the following checklist was generated:
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
