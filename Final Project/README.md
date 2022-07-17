@@ -61,10 +61,19 @@ Test cases: -> enter here test cases or at least the titles
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* Cycle summary was created
+* Test cases were added to the cycle summary
+* Postman collection with the dependents API methods was created
+* Authorization token was created for accessing the API
 ## 1.6 Test Execution
-* Test cases are executed on the created test Cycle summary:
-* Bugs have been created based on the failed tests. The complete bug reports can be found here:
+* Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-07-17-2022.csv](https://github.com/Alinrev/manual_testing_portofolio/files/9128374/ZFJ-Cycles-07-17-2022.csv)
+
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: 
+* ![Screenshot 2022-07-17 220324](https://user-images.githubusercontent.com/109461549/179420983-ccf20e39-63c2-4ff8-8e58-c331a7d3d21c.png)
+* ![Screenshot 2022-07-17 220417](https://user-images.githubusercontent.com/109461549/179420984-54d52221-0aea-4d5f-97c8-db5d5494ac31.png)
+ 
 ## 1.7 Test Completion
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here:
