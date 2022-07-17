@@ -52,8 +52,14 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the PIM module. The following test conditions were found:
-
-* Enter test conditions here
+* Enter data only for mandatory fields and check that the employee is created/updated
+* Enter data for all available fields and check that the employee is created/updated
+* Leave mandatory fields empty and check that the employee cannot be created/updated
+* Enter incorrect data for mandatory fields and check if the employee is created/updated
+* Check employees reports and see if they are correct
+* View employee details and check they are correct
+* View all employees in a list
+* Check all validation constraints for the fields
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
