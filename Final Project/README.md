@@ -57,7 +57,8 @@ The testing process will be executed based on the above requirements for the PIM
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
-Test cases: -> enter here test cases or at least the titles
+* The test cases with steps can be viewed here: 
+* For API, the following checklist was generated:
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
@@ -76,7 +77,9 @@ The following elements are needed to be ready before the test execution phase be
  
 ## 1.7 Test Completion
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here:
+* The traceability matrix was generated and can be found here:[Forward Traceability_17_7_2022.xlsx](https://github.com/Alinrev/manual_testing_portofolio/files/9128403/Forward.Traceability_17_7_2022.xlsx)
+ 
 * Test execution chart was generated, the final report shows.... -> describe the final report
--> enter here test execution report/chart
+ ![Screenshot 2022-07-17 161320](https://user-images.githubusercontent.com/109461549/179421853-7fc410b3-f23a-4313-842e-04a6566e7f0e.jpg)
+
 # 2 SQL section
