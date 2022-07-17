@@ -7,22 +7,45 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 ##### The final project will be split into 2 sections: Testing section and SQL section.
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
--> enter here the functional specifications created in JIRA
+#### The text below describes the functional specifications of the PIM's module, for which the final project is performed upon.
+This core module maintains all relevant employee related information, including different types of personal
+information, detailed qualifications, work experience, job related information etc.
+The functionality of the PIM Module differs depending on the rights of the user.
+The HR can:
+* Configure optional/custom fields, data import from CSV, define reporting methods and termination
+reasons that will be used throughout the module.
+* View all employee details
+* Add employee on the list.
+* Generate employee report
 # 1 Testing section
 ## Test planning
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application.
+The Test Plan is designed to describe all details of testing for the PIM's module from the OrangeHRM application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 ##### 1.1.1 Roles assigned to the project and persons allocated
+* Project manager - Victor Ionescu
+* Product owner - Larisa Petrescu
+* Software developer - Cornel Marian
+* QA Engineer - Jonathan Gonzales
 ##### 1.1.2 Entry criteria defined
+* functional specifications are defined
+* roles needed for the project are allocated
+* initial project risks were detected and mitigated
 ##### 1.1.3 Exit criteria defined
+* number of unresolved bugs is insignificant or they have low priority
+* all tests have been executed
+* all resolved bugs have been re-tested and approved by the QA team
+* deadline was reached
+* no detected major risk remained un-mitigated
+* exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 ##### 1.1.4 Test scope
-* Tests in scope:
-* Tests not in scope:
+* Tests in scope: All the feature of PIM's module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* Tests not in scope: Performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 ##### 1.1.5 Risks detected
-* Project risks:
-* Product risks:
+* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
+* Product risks: validation constraints on the fields might be too restrictive to the end-user
 ##### 1.1.6 Evaluating entry criteria
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test Monitoring and Control
 It will be done by generating periodic reports that reflect the current status of the test.
 ## 1.3 Test Analysis
