@@ -99,7 +99,7 @@ The following elements are needed to be ready before the test execution phase be
 * Postman collection with the dependents API methods was created
 * Authorization token was created for accessing the API
 ## 1.6 Test Execution
-* Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-07-17-2022.csv](https://github.com/Alinrev/manual_testing_portofolio/files/9128374/ZFJ-Cycles-07-17-2022.csv)
+* Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-Summary.csv](https://github.com/Alinrev/manual_testing_portofolio/files/9128608/ZFJ-Cycles-Summary.csv)
 
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: 
 * ![Screenshot 2022-07-17 220324](https://user-images.githubusercontent.com/109461549/179420983-ccf20e39-63c2-4ff8-8e58-c331a7d3d21c.png)
@@ -107,8 +107,8 @@ The following elements are needed to be ready before the test execution phase be
  
 ## 1.7 Test Completion
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here:[Forward Traceability_17_7_2022.xlsx](https://github.com/Alinrev/manual_testing_portofolio/files/9128403/Forward.Traceability_17_7_2022.xlsx)
- 
+* The traceability matrix was generated and can be found here:[Forward Traceability_Matrix.xlsx](https://github.com/Alinrev/manual_testing_portofolio/files/9128609/Forward.Traceability_Matrix.xlsx)
+
 * Test execution chart was generated, the final report shows that a number of 2 tests have failed of a total of 14
 * A number of 14 test cases were planned for execution and all of them were executed
 * A number of total 2 bugs were found, both with medium priority.
