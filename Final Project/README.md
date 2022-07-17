@@ -1,11 +1,11 @@
 # Final project for ITF Manual Testing Course
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
-Application under test:
+Application under test: https://opensource-demo.orangehrmlive.com/
 
-API Documentation:
+API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 ##### The final project will be split into 2 sections: Testing section and SQL section.
-Tools used:
+Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
 -> enter here the functional specifications created in JIRA
 # 1 Testing section
