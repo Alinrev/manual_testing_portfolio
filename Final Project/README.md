@@ -48,7 +48,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test Monitoring and Control
 It will be done by generating periodic reports that reflect the current status of the test.
-![Daily test execution progress](\Users\Alin\Desktop\ITFactory "Daily test execution progress")
+![Daily test execution progress](https://user-images.githubusercontent.com/109461549/179420236-7bad484d-f73b-4adb-806f-35a6abb2f01c.jpg)
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the PIM module. The following test conditions were found:
