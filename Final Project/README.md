@@ -114,4 +114,4 @@ The following elements are needed to be ready before the test execution phase be
 * A number of total 2 bugs were found, both with medium priority.
  ![Screenshot 2022-07-17 161320](https://user-images.githubusercontent.com/109461549/179421853-7fc410b3-f23a-4313-842e-04a6566e7f0e.jpg)
 # 2 SQL section
-https://github.com/Alinrev/manual_testing_portofolio/blob/8e5fcae89056b8612f2b37c197a8aba5ef6a2546/Final%20Project/MySQL%20orangeHRM.sql
+Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file:  https://github.com/Alinrev/manual_testing_portofolio/blob/8e5fcae89056b8612f2b37c197a8aba5ef6a2546/Final%20Project/MySQL%20orangeHRM.sql
