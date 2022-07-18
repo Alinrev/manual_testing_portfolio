@@ -8,8 +8,8 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
 #### The text below describes the functional specifications of the PIM's module, for which the final project is performed upon.
-This core module maintains all relevant employee related information, including different types of personal
-information, detailed qualifications, work experience, job related information etc.
+This core module maintains all relevant employees related informations, including different types of personal
+informations, detailed qualifications, work experience, job related informations etc.
 The functionality of the PIM Module differs depending on the rights of the user.
 The HR can:
 * Configure optional/custom fields, data import from CSV, define reporting methods and termination
@@ -36,7 +36,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * all tests have been executed
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
-* no detected major risk remained un-mitigated
+* not detected major risk remained un-mitigated
 * exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 ##### 1.1.4 Test scope
 * Tests in scope: All the feature of PIM's module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
