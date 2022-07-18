@@ -88,7 +88,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 [PO-33.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128571/PO-33.pdf)
 [PO-34.pdf](https://github.com/Alinrev/manual_testing_portofolio/files/9128572/PO-34.pdf)
 
-* For API, the following checklist was generated:
+* For API, the following checklist was generated: https://github.com/Alinrev/manual_testing_portofolio/blob/fedeeb0b59b3b3855e5a3e857f0256bd1b0c873d/Final%20Project/OrangeHRM.postman.json
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
