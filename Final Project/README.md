@@ -26,7 +26,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * Project manager - Victor Ionescu
 * Product owner - Larisa Petrescu
 * Software developer - Cornel Marian
-* QA Engineer - Jonathan Gonzales
+* QA Engineers - Alin Revnic, Jonathan Gonzales
 ##### 1.1.2 Entry criteria defined
 * functional specifications are defined
 * roles needed for the project are allocated
