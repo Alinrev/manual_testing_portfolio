@@ -8,15 +8,15 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
 #### The text below describes the functional specifications of the PIM's module, for which the final project is performed upon.
-This core module maintains all relevant employees related informations, including different types of personal
-informations, detailed qualifications, work experience, job related informations etc.
-The functionality of the PIM Module differs depending on the rights of the user.
-The HR can:
-* Configure optional/custom fields, data import from CSV, define reporting methods and termination
-reasons that will be used throughout the module.
-* View all employee details
-* Add employee on the list.
-* Generate employee report
+*This core module maintains all relevant employees related informations, including different types of personal
+informations, detailed qualifications, work experience, job related informations etc.*
+*The functionality of the PIM Module differs depending on the rights of the user.*
+*The HR can*:
+* *Configure optional/custom fields, data import from CSV, define reporting methods and termination
+reasons that will be used throughout the module*.
+* *View all employee details*
+* *Add employee on the list*.
+* *Generate employee report* 
 # 1 Testing section
 ## Test planning
 The Test Plan is designed to describe all details of testing for the PIM's module from the OrangeHRM application.
@@ -36,8 +36,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * all tests have been executed
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
-* not detected major risk remained un-mitigated
-* exploratory regression testing must be performed on the My Info module, which includes the Dependents section
+* no other major risk detected and un-mitigated
 ##### 1.1.4 Test scope
 * Tests in scope: All the feature of PIM's module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 * Tests not in scope: Performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
@@ -45,13 +44,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
 * Product risks: validation constraints on the fields might be too restrictive to the end-user
 ##### 1.1.6 Evaluating entry criteria
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test Monitoring and Control
 It will be done by generating periodic reports that reflect the current status of the test.
 ![Daily test execution progress](https://user-images.githubusercontent.com/109461549/179420236-7bad484d-f73b-4adb-806f-35a6abb2f01c.jpg)
 
 ## 1.3 Test Analysis
-The testing process will be executed based on the above requirements for the PIM module. The following test conditions were found:
+The testing process will be executed based on the above requirements for the PIM module. The following test conditions were defined:
 * Enter data only for mandatory fields and check that the employee is created/updated
 * Enter data for all available fields and check that the employee is created/updated
 * Leave mandatory fields empty and check that the employee cannot be created/updated
