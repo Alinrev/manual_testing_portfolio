@@ -109,7 +109,7 @@ The following elements are needed to be ready before the test execution phase be
 * The traceability matrix was generated and can be found here:[Forward Traceability_Matrix.xlsx](https://github.com/Alinrev/manual_testing_portofolio/files/9128609/Forward.Traceability_Matrix.xlsx)
 
 * Test execution chart was generated, the final report shows that a number of 2 tests have failed of a total of 14
-* A number of 14 test cases were planned for execution and all of them were executed
+* A number of 14 test cases were planned for execution and all of them were executed.
 * A number of total 2 bugs were found, both with medium priority.
  ![Screenshot 2022-07-17 161320](https://user-images.githubusercontent.com/109461549/179421853-7fc410b3-f23a-4313-842e-04a6566e7f0e.jpg)
 # 2 SQL section
