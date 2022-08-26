@@ -40,3 +40,5 @@ values
 ( 'Grigore', 'Grigorescu', '1987-01-01');
 select * from employees
 join pastEmployees;
+update employees set job = 'Assistant Manager' where lastName = 'Marin';
+delete from employees where job = 'Assistant Manager';
